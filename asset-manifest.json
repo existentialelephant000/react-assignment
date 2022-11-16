@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-stencil/static/css/main.073c9b0a.css",
-    "main.js": "/react-stencil/static/js/main.930fb913.js",
-    "static/media/logo.svg": "/react-stencil/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-stencil/index.html",
-    "main.073c9b0a.css.map": "/react-stencil/static/css/main.073c9b0a.css.map",
-    "main.930fb913.js.map": "/react-stencil/static/js/main.930fb913.js.map"
+    "main.css": "/react-assignment/static/css/main.073c9b0a.css",
+    "main.js": "/react-assignment/static/js/main.9a330769.js",
+    "static/media/logo.svg": "/react-assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-assignment/index.html",
+    "main.073c9b0a.css.map": "/react-assignment/static/css/main.073c9b0a.css.map",
+    "main.9a330769.js.map": "/react-assignment/static/js/main.9a330769.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.930fb913.js"
+    "static/js/main.9a330769.js"
   ]
 }
