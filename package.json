@@ -1,10 +1,15 @@
 {
   "name": "react-stencil",
-  "homepage": "",
+  "homepage": "/development/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.15",
+    "bootstrap": "^5.2.2",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.6.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
   },

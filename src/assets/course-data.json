@@ -1,0 +1,112 @@
+[ 
+    {
+    "name": "User Interface, User Experience",
+    "number": 1300,
+    "prof": "Jeff Huang",
+    "courseRating": 3.71,
+    "profRating": 4.58,
+    "avgHours": 5.43,
+    "level": "Upper"
+    },
+    {
+    "name": "Introduction to Object-Oriented Programming and Computer Science",
+    "number": 150,
+    "prof": "Andy Van Dam",
+    "courseRating": 4.35,
+    "profRating": 4.33,
+    "avgHours": 11.87,
+    "level": "Intro"
+    },
+    {
+    "name": "Computer Science: An Integrated Introduction",
+    "number": 170,
+    "prof": "John Hughes",
+    "courseRating": 3.78,
+    "profRating": 3.81,
+    "avgHours": 8.94,
+    "level": "Intro"
+    },
+    {
+    "name": "Accelerated Introduction to Computer Science",
+    "number": 190,
+    "prof": "Shriram Krishnamurthi",
+    "courseRating": 3.50,
+    "profRating": 4.36,
+    "avgHours": 14.47,
+    "level": "Intro"
+    },
+    {
+    "name": "Introduction to Computer Systems",
+    "number": 330,
+    "prof": "Thomas Doeppner",
+    "courseRating": 3.86,
+    "profRating": 4.32,
+    "avgHours": 12.68,
+    "level": "Intermediate"
+    },
+    {
+    "name": "Introduction to Software Engineering",
+    "number": 320,
+    "prof": "Tim Nelson",
+    "courseRating": 3.08,
+    "profRating": 4.23,
+    "avgHours": 12.06,
+    "level": "Intermediate"
+    },
+    {
+    "name": "Machine Learning",
+    "number": 1420,
+    "prof": "Stephen Bach",
+    "courseRating": 4.25,
+    "profRating": 4.74,
+    "avgHours": 6.30,
+    "level": "Upper"
+    },
+    {
+    "name": "Introduction to Discrete Structures and Probability",
+    "number": 220,
+    "prof": "Robert Lewis",
+    "courseRating": 3.77,
+    "profRating": 4.50,
+    "avgHours": 6.21,
+    "level": "Intermediate"
+    },
+    {
+    "name": "Fundementals of Computer Systems",
+    "number": 300,
+    "prof": "Malte Schwarzkopf",
+    "courseRating": 4.27,
+    "profRating": 4.85,
+    "avgHours": 11.37,
+    "level": "Intermediate"
+    },
+    {
+    "name": "Operating Systems",
+    "number": 1670,
+    "prof": "Thomas Doeppner",
+    "courseRating": 4.18,
+    "profRating": 4.61,
+    "avgHours": 11.77,
+    "level": "Upper"
+    },
+    {
+    "name": "Introduction to Computer Graphics",
+    "number": 1230,
+    "prof": "Daniel Ritchie",
+    "courseRating": 3.68,
+    "profRating": 4.70,
+    "avgHours": 12.90,
+    "level": "Intermediate"
+    },
+    {
+    "name": "Computer Vision",
+    "number": 1430,
+    "prof": "James Tompkin",
+    "courseRating": 4.09,
+    "profRating": 4.75,
+    "avgHours": 9.22,
+    "level": "Upper"
+    }
+    
+    
+]
