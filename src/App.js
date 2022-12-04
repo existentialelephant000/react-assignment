@@ -51,12 +51,10 @@ function App() {
 
   // course data mapped
   const rawData = courseData.map((item) => (
-    <div>
       <Course name={item.name} number={item.number} prof={item.prof}
       courseRating={item.courseRating} profRating={item.profRating} 
       avgHours={item.avgHours} level={item.level} addToCart={addToCart}
       removeFromCart={removeFromCart}/>
-    </div>
   ));
   const [data, setData] = useState(rawData);
   

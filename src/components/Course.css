@@ -4,4 +4,5 @@
     background: rgb(168, 255, 181);
     border-radius: 20px;
     min-width: 48vw;
+    max-height: 20vw;
 }
